@@ -6,7 +6,7 @@ A simple and user-friendly Body Mass Index (BMI) Calculator web application buil
 
 ## 🚀 Live Demo
 
-[Try the BMI Calculator Live](#) <!-- Replace # with your live demo link if available -->
+[Try the BMI Calculator Live](https://adityaa2227.github.io/BMI-Calculator/) <!-- Replace # with your live demo link if available -->
 
 ---
 
@@ -49,7 +49,7 @@ A simple and user-friendly Body Mass Index (BMI) Calculator web application buil
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Adityaa2227/BMI-Calculator/
     ```
 2. **Navigate into the project folder:**
     ```bash
@@ -84,4 +84,4 @@ This project is open-source and available under the MIT License.
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [Your Name] <!-- Replace with your name or GitHub profile -->
+Made with ❤️ by Aditya <!-- Replace with your name or GitHub profile -->
